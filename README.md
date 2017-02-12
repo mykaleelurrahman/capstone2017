@@ -5,21 +5,7 @@ I'm a student from Seneca college studying Information and Security. I believe t
 
 ### Blogs
 
-Home Automation
-```markdown
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-```
+To be Awesome!!!!!
 
 
 ### Support or Contact
